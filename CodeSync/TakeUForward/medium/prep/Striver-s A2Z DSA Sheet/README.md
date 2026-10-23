@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet
-- Synced: 2026-10-23T11:04:32.923Z
+- Synced: 2026-10-23T11:15:32.912Z
 
 ## Problem Description
 

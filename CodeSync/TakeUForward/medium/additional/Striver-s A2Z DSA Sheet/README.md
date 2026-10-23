@@ -7,11 +7,11 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet
-- Synced: 2026-10-23T18:20:56.031Z
+- Synced: 2026-10-23T18:32:32.260Z
 
 ## Problem Description
 
-Learn more. Achieve more.
+Learn data structures and algorithms in a clear sequence, from programming foundations to advanced problems. Build your coding interview skills through independent practice, better approaches, and regular revision.
 
 ## Explanation
 

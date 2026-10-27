@@ -4,10 +4,10 @@
  * URL: https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet
  * Language: Java
  * Difficulty: Medium
- * Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
+ * Topics: PREP, ADDITIONAL, MY SPACE, Dashboard, Prep Hub, DSA, SQL, Quantitative
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-25T13:44:43.368Z
+ * Synced: 2026-10-27T07:23:53.898Z
  */
 
 class Solution {

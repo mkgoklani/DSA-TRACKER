@@ -3,11 +3,11 @@
 - Platform: TakeUForward
 - Language: Java
 - Difficulty: Medium
-- Topics: Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative
+- Topics: PREP, ADDITIONAL, MY SPACE, Dashboard, Prep Hub, DSA, SQL, Quantitative
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet
-- Synced: 2026-10-25T13:44:43.368Z
+- Synced: 2026-10-27T07:23:53.898Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Learn data structures and algorithms in a clear sequence, from programming found
 
 ## Explanation
 
-This solution was accepted on TakeUForward using Java. The detected topics are Prep, Additionals, My Spaces, Dashboard, Prep Hub, DSA, SQL, Quantitative. Review the synced source file for the implementation details.
+This solution was accepted on TakeUForward using Java. The detected topics are PREP, ADDITIONAL, MY SPACE, Dashboard, Prep Hub, DSA, SQL, Quantitative. Review the synced source file for the implementation details.

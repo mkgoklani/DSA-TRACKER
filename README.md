@@ -1,57 +1,78 @@
 # DSA-TRACKER
-Daily LeetCode solutions and DSA practice in Java.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/mkgoklani/DSA-TRACKER/tree/master/0217-contains-duplicate) |
-## Hash Table
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/mkgoklani/DSA-TRACKER/tree/master/0217-contains-duplicate) |
-## Sorting
-|  |
-| ------- |
-| [0217-contains-duplicate](https://github.com/mkgoklani/DSA-TRACKER/tree/master/0217-contains-duplicate) |
-<!---LeetCode Topics End-->
+Personal repository for tracking solved Data Structures & Algorithms problems, curated sheet progress, and solutions automatically synced via **CodeSync**.
 
-## Coding Sheets Progress
+---
 
-CodeSync automatically tracks your progress across curated coding sheets. Here is your current progress:
+## 📊 Curated Sheets Progress
 
-| Coding Sheet | Solved | Total |
-| :--- | :--- | :--- |
-| Blind 75 | 0 | 75 |
-| Grind 75 | 0 | 75 |
-| Grind 169 | 0 | 169 |
-| Neetcode 150 | 0 | 150 |
-| LeetCode 75 | 0 | 75 |
-| Top Interview 150 | 0 | 150 |
-| LeetCode 100 Most Liked | 0 | 100 |
-| SQL 50 | 0 | 50 |
-| Strivers A2Z DSA Sheet | 0 | 455 |
-| Striver SDE Sheet | 0 | 191 |
-| Love Babbar Sheet | 0 | 445 |
-| Code Army Sheet | 0 | 726 |
-| GFG 160 | 0 | 160 |
-| CSES Problem Set | 0 | 300 |
-| InterviewBit Sets | 0 | 200 |
-| Nishant Chahar 151 | 0 | 151 |
-| Kushal Vijay Patterns | 0 | 100 |
-| DSA by Shradha Didi & Aman Bhaiya | 0 | 403 |
-| Fraz DSA Sheet | 0 | 279 |
-| AlgoMaster 75 | 0 | 75 |
-| 6 Companies 30 Days | 0 | 90 |
-| Striver 79 | 0 | 79 |
-| Atharva Patil's 150 Sheet | 0 | 150 |
-| AlgoMaster 300 | 0 | 300 |
-| Arsh DSA Sheet | 0 | 287 |
-| Neetcode 250 | 0 | 250 |
-| 20 Essential DSA Patterns | 0 | 180 |
-| AlgoMaster 150 | 0 | 150 |
-| DP Mastery Sheet | 0 | 67 |
-| String Mastery Sheet | 0 | 51 |
-| Graph Mastery Sheet | 0 | 29 |
-| Heap Mastery Sheet | 0 | 22 |
+| Coding Sheet | Solved | Total | Progress |
+| :--- | :---: | :---: | :--- |
+| **Striver's A2Z DSA Sheet** | **22** | 455 | ![Progress](https://progress-bar.xyz/5/?title=Solved) |
+| **LeetCode** | **1** | — | — |
+
+---
+
+## 📁 Repository Structure
+
+```
+DSA-TRACKER/
+├── README.md
+├── stats.json
+├── metadata/
+│   └── problem_sheets.json
+└── CodeSync/
+    ├── LeetCode/
+    │   └── 0217-contains-duplicate/
+    │       ├── 0217-contains-duplicate.java
+    │       └── README.md
+    └── Striver's A2Z/
+        ├── Pattern 1/
+        ├── Pattern 2/
+        ├── ...
+        ├── Pattern 21/
+        └── Pattern 22/
+            ├── solution.java
+            ├── README.md
+            └── metadata.json
+```
+
+---
+
+## 📌 Solved Problems
+
+### 🎯 Striver's A2Z DSA Sheet — Step 1.2: Build-up Logical Thinking (Patterns)
+
+| # | Problem | Language | Solution | Problem Info |
+| :-: | :--- | :---: | :---: | :---: |
+| 1 | **Pattern 1** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%201/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%201/README.md) |
+| 2 | **Pattern 2** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%202/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%202/README.md) |
+| 3 | **Pattern 3** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%203/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%203/README.md) |
+| 4 | **Pattern 4** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%204/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%204/README.md) |
+| 5 | **Pattern 5** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%205/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%205/README.md) |
+| 6 | **Pattern 6** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%206/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%206/README.md) |
+| 7 | **Pattern 7** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%207/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%207/README.md) |
+| 8 | **Pattern 8** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%208/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%208/README.md) |
+| 9 | **Pattern 9** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%209/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%209/README.md) |
+| 10 | **Pattern 10** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2010/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2010/README.md) |
+| 11 | **Pattern 11** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2011/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2011/README.md) |
+| 12 | **Pattern 12** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2012/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2012/README.md) |
+| 13 | **Pattern 13** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2013/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2013/README.md) |
+| 14 | **Pattern 14** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2014/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2014/README.md) |
+| 15 | **Pattern 15** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2015/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2015/README.md) |
+| 16 | **Pattern 16** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2016/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2016/README.md) |
+| 17 | **Pattern 17** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2017/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2017/README.md) |
+| 18 | **Pattern 18** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2018/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2018/README.md) |
+| 19 | **Pattern 19** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2019/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2019/README.md) |
+| 20 | **Pattern 20** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2020/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2020/README.md) |
+| 21 | **Pattern 21** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2021/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2021/README.md) |
+| 22 | **Pattern 22** | Java | [Solution](CodeSync/Striver-s%20A2Z/Pattern%2022/solution.java) | [README](CodeSync/Striver-s%20A2Z/Pattern%2022/README.md) |
+
+### 🧩 LeetCode Solutions
+
+| # | Problem | Language | Solution | Problem Info |
+| :-: | :--- | :---: | :---: | :---: |
+| 217 | **Contains Duplicate** | Java | [Solution](CodeSync/LeetCode/0217-contains-duplicate/0217-contains-duplicate.java) | [README](CodeSync/LeetCode/0217-contains-duplicate/README.md) |
+
+---
+*Auto-synced and maintained via [CodeSync](https://github.com/imrajeevnayan/CodeSync-Extension)*
